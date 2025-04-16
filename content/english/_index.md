@@ -1,26 +1,27 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "LIDSOL"
+  content: "Somos un laboratorio colaborativo integrado por voluntarios, alumnos, exalumnos y académicos apasionados por el desarrollo de tecnologías libres y su impacto en la sociedad. Nuestra misión es promover la investigación y el desarrollo tecnológico a través de proyectos innovadores en diversas áreas, contribuyendo así al progreso y bienestar social."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Nuestros proyectos"
+    link: "https://github.com/LIDSOL"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Intereses"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "En Lidsol encontrarás un espacio para desarrollar tus habilidades y conocimientos en tecnologías libres, así como para colaborar en proyectos innovadores que buscan mejorar la sociedad."
+
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Software Libre"
+      - "Seguridad Informática"
+      - "Open Access"
+      - "Licencias Libres"
+      - "Hardware Abierto"
+      - "DevOps"
     button:
       enable: false
       label: "Get Started Now"
