@@ -1,12 +1,12 @@
 ---
-title: "Laboratorio de Investigación de Software Libre"
+title: "Laboratorio de Investigación y Desarrollo de Software Libre"
 meta_title: "About"
 description: "Descripción sobre el LIDSOL, un laboratorio de la Facultad de Ingeniería de la UNAM."
 image: "/images/logo-transparente.png"
 draft: false
 ---
 
-#### About us
+#### Sobre nosotros
 
 El LIDSOL es un laboratorio de la Facultad de Ingeniería de la UNAM, establecido en 2001, formado por voluntarios, alumnos, ex-alumnos y académicos interesados en el desarrollo de tecnologías libres y las discusiones sobre su impacto en la sociedad.
 

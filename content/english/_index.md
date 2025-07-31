@@ -2,25 +2,27 @@
 # Banner
 banner:
   title: "LIDSOL"
-  content: "Somos un laboratorio colaborativo integrado por voluntarios, alumnos, exalumnos y académicos apasionados por el desarrollo de tecnologías libres y su impacto en la sociedad. Nuestra misión es promover la investigación y el desarrollo tecnológico a través de proyectos innovadores en diversas áreas, contribuyendo así al progreso y bienestar social."
+  content: |
+    <div style="text-align: justify; margin-bottom: 3rem;">
+      We are a collaborative laboratory made up of volunteers, students, former students, and academics passionate about the development of open-source technologies and their impact on society. Our mission is to promote research and technological development through innovative projects in diverse areas, therefore contributing to social progress and well-being.
+    </div>
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Nuestros proyectos"
+    label: "Our Projects"
     link: "https://github.com/LIDSOL"
 
 # Features
 features:
-  - title: "Intereses"
+  - title: "Interests"
     image: "/images/service-1.png"
-    content: "En Lidsol encontrarás un espacio para desarrollar tus habilidades y conocimientos en tecnologías libres, así como para colaborar en proyectos innovadores que buscan mejorar la sociedad."
-
+    content: "At Lidsol, you will find a space to develop your skills and knowledge in open source technologies, as well as to collaborate on innovative projects aimed at improving society."
     bulletpoints:
-      - "Software Libre"
-      - "Seguridad Informática"
+      - "Open Source Software"
+      - "Cybersecurity"
       - "Open Access"
-      - "Licencias Libres"
-      - "Hardware Abierto"
+      - "Open Licenses"
+      - "Open Hardware"
       - "DevOps"
     button:
       enable: false
