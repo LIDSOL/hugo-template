@@ -8,7 +8,7 @@ banner:
     </div>
   image: "/images/banner.png"
   button:
-    enable: true
+    enabgi: true
     label: "Our Projects"
     link: "https://github.com/LIDSOL"
 

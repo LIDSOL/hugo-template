@@ -2,7 +2,6 @@
 title: "Laboratorio de Investigación de Software Libre"
 meta_title: "About"
 description: "Descripción sobre el LIDSOL, un laboratorio de la Facultad de Ingeniería de la UNAM."
-image: "/images/logo-transparente.png"
 draft: false
 ---
 
@@ -35,7 +34,7 @@ Además, el LIDSOL es el hogar del Capítulo Estudiantil de la ACM UNAM-FI.
 ### Redes Sociales
 
 - **Correo:** [lidsol@protonmail.com](mailto:lidsol@protonmail.com)
-- **Twitter:** [@lidsol](https://twitter.com/lidsol)
+- **Twitter:** [@lidsol](https://x.com/lidsol)
 - **Facebook:** [LIDSOL UNAM](https://facebook.com/lidsol.unam)
 - **GitLab:** [LIDSOL GitLab](https://gitlab.com/lidsol)
 - **GitHub:** [LIDSOL GitHub](https://github.com/lidsol)

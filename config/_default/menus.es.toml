@@ -3,60 +3,75 @@
 # menú principal
 [[main]]
 name = "Inicio"
-url = "/"
+url = "/es"
 weight = 1
 
 [[main]]
 name = "Acerca de"
-url = "/about"
+url = "/es/acerca_de/"
 weight = 2
 
 [[main]]
-name = "Elementos"
-url = "/elements"
+name = "Proyectos"
+url = "/es/proyectos/"
 weight = 3
 
 [[main]]
+name = "Integrantes"
+url = "/es/integrantes/"
 weight = 4
+
+[[main]]
+name = "Media"
+url = "/es/media/"
+weight = 5
+
+[[main]]
+name = "Eventos"
+url = "/es/eventos/"
+weight = 6
+
+# [[main]]
+# name = "Elementos"
+# url = "/elements"
+# weight = 7
+
+[[main]]
+weight = 7
 name = "Páginas"
 
 [[main]]
 parent = "Páginas"
-name = "Blog"
-url = "/blog"
-
-[[main]]
-parent = "Páginas"
 name = "Contacto"
-url = "/contact"
+url = "/es/contacto/"
 
 [[main]]
 parent = "Páginas"
 name = "Autores"
-url = "/authors"
+url = "/es/autores/"
 
 [[main]]
 parent = "Páginas"
 name = "Categorías"
-url = "/categories"
+url = "/es/categorias/"
 
 [[main]]
 parent = "Páginas"
-# name = "Página 404"
+name = "Página 404"
 url = "/404"
 
 # menú de pie de página
 [[footer]]
 name = "Acerca de"
-url = "/about"
+url = "/es/acerca_de/"
 weight = 1
 
-[[footer]]
-name = "Elementos"
-url = "/elements"
-weight = 2
+# [[footer]]
+# name = "Elementos"
+# url = "/elements"
+# weight = 2
 
 [[footer]]
 name = "Política de Privacidad"
-url = "/privacy-policy"
+url = "/es/privacy-policy/"
 weight = 3
