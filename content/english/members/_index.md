@@ -1,6 +1,6 @@
 ---
-title: "Integrantes"
-meta_title: "Integrantes - LIDSOL"
+title: "Members"
+meta_title: "Member"
 description: "Presentar a los miembros del laboratorio y sus roles."
 image: "/images/logo.png"
 draft: false

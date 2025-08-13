@@ -1,6 +1,6 @@
 ---
 title: "Community Outreach Platform"
-meta_title: "LIDSOL Community Outreach Platform"
+meta_title: "Community Outreach Platform"
 description: "Web platform to connect LIDSOL with the broader open source community and facilitate collaboration"
 date: 2025-05-10T16:00:00Z
 image: "/images/call-to-action.png"

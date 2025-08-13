@@ -1,0 +1,72 @@
+<div class="bg-light dark:bg-darkmode-light rounded p-8 text-center">
+  {{ $image:= .Params.image }}
+  {{ if $image }}
+    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
+  {{ else if .Params.Email }}
+    <img
+      class="mx-auto mb-6 rounded"
+      alt="{{ .Title }}"
+      height="120"
+      width="120"
+      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
+  {{ end }}
+
+
+  <!-- Development Area Labels -->
+  {{ $areas := .Params.development_areas }}
+  {{ if $areas }}
+    <div class="mb-4 flex flex-wrap justify-center gap-2">
+      {{ range $areas }}
+        <span
+          class="inline-block rounded-full px-3 py-1 text-xs font-semibold {{ if eq . "Frontend" }}
+            bg-blue-100 text-blue-800
+          {{ else if eq . "Backend" }}
+            bg-green-100 text-green-800
+          {{ else if eq . "Infrastructure" }}
+            bg-purple-100 text-purple-800
+          {{ else if eq . "Academic" }}
+            bg-yellow-100 text-yellow-800
+          {{ else if eq . "DevOps" }}
+            bg-red-100 text-red-800
+          {{ else if eq . "UI/UX" }}
+            bg-pink-100 text-pink-800
+          {{ else if eq . "Data Science" }}
+            bg-indigo-100 text-indigo-800
+          {{ else if eq . "Mobile" }}
+            bg-teal-100 text-teal-800
+          {{ else }}
+            bg-gray-100 text-gray-800
+          {{ end }}">
+          {{ . }}
+        </span>
+      {{ end }}
+    </div>
+  {{ end }}
+
+
+  <h4 class="mb-3">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h4>
+
+  <!-- Role/Position -->
+  {{ if .Params.role }}
+    <p class="mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+      {{ .Params.role }}
+    </p>
+  {{ end }}
+
+
+  <p class="mb-4">
+    {{ .Summary }}
+  </p>
+  <ul class="social-icons">
+    {{ range .Params.social }}
+      <li>
+        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
+          <span class="sr-only">{{ .title }}</span>
+          <i class="{{ .icon }}"></i>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</div>

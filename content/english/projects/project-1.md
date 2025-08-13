@@ -1,6 +1,6 @@
 ---
 title: "LIDSOL Website Redesign"
-meta_title: "LIDSOL Website Redesign Project"
+meta_title: "Website Redesign Project"
 description: "Complete redesign of LIDSOL's website using Hugo and modern web technologies"
 date: 2025-08-11T10:00:00Z
 image: "/images/service-1.png"

@@ -1,6 +1,6 @@
 ---
 title: "Rediseño del Sitio Web de LIDSOL"
-meta_title: "Proyecto de Rediseño del Sitio Web de LIDSOL"
+meta_title: "Proyecto de Rediseño del Sitio Web"
 description: "Rediseño completo del sitio web de LIDSOL utilizando Hugo y tecnologías web modernas"
 date: 2025-08-11T10:00:00Z
 image: "/images/service-1.png"

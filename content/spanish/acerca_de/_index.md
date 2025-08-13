@@ -1,6 +1,6 @@
 ---
 title: "Laboratorio de Investigación y Desarrollo de Software Libre"
-meta_title: "Acerda de"
+meta_title: "Acerca de"
 description: "Descripción sobre el LIDSOL, un laboratorio de la Facultad de Ingeniería de la UNAM."
 draft: false
 ---

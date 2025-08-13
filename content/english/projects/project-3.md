@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure Monitoring Platform"
-meta_title: "LIDSOL Infrastructure Monitoring Platform"
+meta_title: "Infrastructure Monitoring Platform"
 description: "Development of an open-source monitoring platform for laboratory infrastructure and services"
 date: 2025-06-20T09:00:00Z
 image: "/images/service-3.png"

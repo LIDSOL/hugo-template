@@ -1,6 +1,6 @@
 ---
 title: "Media"
-meta_title: "Media - LIDSOL"
+meta_title: "Media"
 description: "Contenido generado por el laboratorio, otras organizaciones afines y material didáctico desarrollado por LIDSOL."
 image: "/images/logo-transparente.png"
 draft: false

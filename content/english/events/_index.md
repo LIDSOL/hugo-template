@@ -1,6 +1,6 @@
 ---
 title: "Events"
-meta_title: "Events - LIDSOL"
+meta_title: "Events"
 description: "Show the events in which LIDSOL has participated or organized."
 image: "/images/logo-transparente.png"
 draft: false
