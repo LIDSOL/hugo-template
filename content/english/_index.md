@@ -7,10 +7,10 @@ banner:
       We are a collaborative laboratory made up of volunteers, students, former students, and academics passionate about the development of open-source technologies and their impact on society. Our mission is to promote research and technological development through innovative projects in diverse areas, therefore contributing to social progress and well-being.
     </div>
   image: "/images/banner.png"
-  button:
-    enabgi: true
-    label: "Our Projects"
-    link: "https://github.com/LIDSOL"
+# button:
+#   enabgi: true
+#   label: "Our Projects"
+#   link: "https://github.com/LIDSOL"
 
 # Features
 features:

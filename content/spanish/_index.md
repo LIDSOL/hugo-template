@@ -7,10 +7,10 @@ banner:
       Somos un laboratorio colaborativo integrado por voluntarios, alumnos, exalumnos y académicos apasionados por el desarrollo de tecnologías libres y su impacto en la sociedad. Nuestra misión es promover la investigación y el desarrollo tecnológico a través de proyectos innovadores en diversas áreas, contribuyendo así al progreso y bienestar social.
     </div>
   image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Nuestros proyectos"
-    link: "https://github.com/LIDSOL"
+  # button:
+  #   enable: true
+  #   label: "Nuestros proyectos"
+  #   link: "https://github.com/LIDSOL"
 
 # Features
 features:
